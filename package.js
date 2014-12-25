@@ -4,7 +4,7 @@ Package.describe({
 
 Npm.depends({
     "winston": "0.7.2",
-    "winston-papertrail": "0.1.4"
+    "winston-papertrail": "1.0.1"
 });
 
 Package.on_use(function (api, where) {
